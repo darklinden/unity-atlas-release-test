@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 92cc13dadfff14981bc1c47d0243b0da
+  m_SerializeEntries:
+  - m_GUID: fa35b3949df5d423c8c05b1028a2ea94
+    m_Address: Assets/Sprites/30.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21e2c9a6416dd47b7871d7333de1fc24
+    m_Address: Assets/Sprites/20.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e69faf574055405993f437bc7bc568a
+    m_Address: Assets/Sprites/10.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e800940617df34f4c8d587f902ab59ee, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 19222e98dc7d14f509c01cd4e0ff1eb1, type: 2}
+    - {fileID: 11400000, guid: df72c36aefc3f404088e4b6b3b7e5fa8, type: 2}

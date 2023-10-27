@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!612988286 &1
+SpriteAtlasAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_MasterAtlas: {fileID: 0}
+  m_ImporterData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: f04298d04c6f64348ad0b2878cecb871, type: 3}
+    - {fileID: 21300000, guid: 8cec4531c93e3448e84b5c8243c582e3, type: 3}
+    - {fileID: 21300000, guid: 4b534a1f46cc34ab7b1fdf2b17f3ed9f, type: 3}
+    - {fileID: 21300000, guid: d5ea599b5981141a9a6681bc0a972186, type: 3}
+    - {fileID: 21300000, guid: cc7f8db352bf04161b74df5d2dc26de1, type: 3}
+    - {fileID: 21300000, guid: fd4b23c75bdc34a9b9086f74dcb9a2ca, type: 3}
+    - {fileID: 21300000, guid: 1c8deecc1174f49a3a03f7e4960945bd, type: 3}
+    - {fileID: 21300000, guid: 1ed3fac4cb4a94238892cc30fc9251d4, type: 3}
+    - {fileID: 21300000, guid: acc2db1fa1e2c4e9f8c4042c0cc0f9ff, type: 3}
+    - {fileID: 21300000, guid: 72f06e9a598b34350855ef99db7af7e0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 1
+    cachedData: {fileID: 0}
+  m_IsVariant: 0
